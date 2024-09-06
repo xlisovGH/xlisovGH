@@ -14,8 +14,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="35" alt="cplusplus logo"  />
 </div>
 
-<h2>Repositories</h2>
-<ul>
-   <li>DiscordBC - Theme for discord app</li>
-   <li>TikTokBC - Extension for TikTok site</li>
-</ul>
+2024 by xlisov aka beastcom
