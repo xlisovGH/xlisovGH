@@ -13,7 +13,4 @@
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="35" alt="cplusplus logo"  />
 </div>
-
-<br>
-
 <p align="right">2024 by xlisov aka beastcom</p>
