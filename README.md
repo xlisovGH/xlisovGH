@@ -1,5 +1,5 @@
 <p align="center">Weak developer of extensions, programs and other...</p>
-<p align="center">Languages</p>
+<p align="center">I work with</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="35" alt="html5 logo" />
   <img width="9" />
